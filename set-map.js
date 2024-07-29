@@ -40,4 +40,4 @@ console.log(uniquebranchesAry)
 
 // [ 'CSE', 'ECE', 'IT', 'Mechanical', 'Civil' ] 
 
-//the desired output is obtained
+// The desired output is now obtained
